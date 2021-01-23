@@ -43,6 +43,7 @@ export const Content = styled.div`
     color: #ff9000;
     display: flex;
     align-items: center;
+    line-height: 12px;
     margin-top: 24px;
     text-decoration: none;
     transition: 0.2s;

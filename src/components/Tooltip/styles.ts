@@ -12,7 +12,7 @@ export const Container = styled.div`
     font-weight: 500;
     opacity: 0;
     visibility: hidden;
-    transition: 0.4s;
+    transition: 0.3s;
 
     position: absolute;
     bottom: calc(100% + 12px);
